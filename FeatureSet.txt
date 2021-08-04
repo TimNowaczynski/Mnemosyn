@@ -4,6 +4,7 @@
 MAIN VIEW
 
     Shows List of All Spaces
+    ++ Sort List (abc, last viewed, last edited)
     Add Space
     Edit Space (Name)
     + Manage Space (icon/banner)
@@ -14,6 +15,8 @@ SPACE
     Name
     + Small Icon (optional)
     + Banner (optional)
+    +++ Theme (colors, font size)
+    ++++ Theme based on Banner colors
     Start Page
     +++ Import/Export/Sync
     ++ Search
