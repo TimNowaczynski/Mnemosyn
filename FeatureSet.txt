@@ -1,0 +1,34 @@
+
+(The more +, the more optional)
+
+MAIN VIEW
+
+    Shows List of All Spaces
+    Add Space
+    Edit Space (Name)
+    + Manage Space (icon/banner)
+    Delete Space
+
+SPACE
+
+    Name
+    + Small Icon (optional)
+    + Banner (optional)
+    Start Page
+    +++ Import/Export/Sync
+    ++ Search
+
+MANAGE SPACE
+
+    List / Remove Orphaned Pages
+    + Remove Orphaned Media
+
+PAGE
+
+    Create / Link with Highlight
+    Edit
+    Markdown
+    Delete
+    + List Media
+    ++ Inline Media
+    +++ Templates
